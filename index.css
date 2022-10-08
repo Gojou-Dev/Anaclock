@@ -1,6 +1,23 @@
 body{
     background: url(coffee.jpg);
 }
+header{
+    margin:auto;
+    width: 30%;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+header h2{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    word-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 5vw;
+}
 #clockcontainer{
     width: 37vw;
     height:37vw;
