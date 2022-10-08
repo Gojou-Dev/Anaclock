@@ -28,6 +28,7 @@ header h2{
 #hour, #minute, #second{
     position: absolute;
     border-radius: 10px;
+    transform-origin: bottom;
 }
 #hour{
     width: 2%;
