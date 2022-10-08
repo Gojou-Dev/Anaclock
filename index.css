@@ -19,6 +19,7 @@ header h2{
     font-size: 5vw;
 }
 #clockcontainer{
+    margin:auto;
     width: 37vw;
     height:37vw;
     position: relative;
