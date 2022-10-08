@@ -2,6 +2,7 @@ body{
     background: url(coffee.jpg);
 }
 #clockcontainer{
+    margin:auto;
     width: 37vw;
     height:37vw;
     position: relative;
